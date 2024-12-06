@@ -13,5 +13,4 @@ sed -i '/export MONO_MWF_USE_CAIRO_BACKEND=1/d' ~/.bashrc
 
 # Remove symlink for libgdiplus
 sudo rm /usr/lib/mono/4.5/libgdiplus.so
-
 echo "Uninstallation complete. Mission Planner has been removed."

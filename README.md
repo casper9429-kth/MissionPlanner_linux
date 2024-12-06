@@ -24,12 +24,10 @@ This installation is **experimental**. Please note the following:
 chmod +x setup_mission_planner.sh
 ./setup_mission_planner.sh
 ```
+Enter your password when prompted.
 
 ## Running Mission Planner
-Mission Planner should appear in your applications menu. If not, you can run it from the terminal:
-```
-mono MissionPlanner.exe
-```
+Mission Planner should appear in your applications menu. 
 
 ## Uninstalling Mission Planner
 To uninstall Mission Planner, run the uninstallation script:
@@ -37,4 +35,5 @@ To uninstall Mission Planner, run the uninstallation script:
 chmod +x uninstall_mission_planner.sh
 ./uninstall_mission_planner.sh
 ```
+Enter your password when prompted.
 

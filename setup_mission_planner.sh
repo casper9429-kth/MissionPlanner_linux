@@ -32,5 +32,5 @@ EOF
 
 # Make the .desktop file executable
 chmod +x ~/.local/share/applications/mission-planner.desktop
-
+rm -rf $(pwd)/MissionPlanner-latest.zip
 echo "Setup complete. You can now find Mission Planner in your application menu."
